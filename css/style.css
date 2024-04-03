@@ -5,15 +5,16 @@
 
 .header-fullscreen {
     height: 15vh;
+    background-color: #009688;
 }
 
 .main-fullscreen {
     height: 85vh;
+    background-color: #dbdbd4;
 }
 
 .ms-box {
     margin: 50px;
-    padding: 20px;
     position: absolute;
     top: 0;
     left: 0;
