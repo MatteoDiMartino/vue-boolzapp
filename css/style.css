@@ -2,3 +2,11 @@
     height: 100vh;
     width: 100vw;
 }
+
+.header-fullscreen {
+    height: 15vh;
+}
+
+.main-fullscreen {
+    height: 85vh;
+}
