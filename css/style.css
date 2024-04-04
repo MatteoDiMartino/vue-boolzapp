@@ -14,10 +14,18 @@
 }
 
 .ms-box {
-    margin: 40px 130px;
+    margin: 20px 130px;
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
+}
+
+.ms-fullround {
+    border-radius: 50%;
+}
+
+.ms-fs-1 {
+    font-size: 15px;
 }
