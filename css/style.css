@@ -35,3 +35,5 @@
 .ms-border-search-bar {border: 1px solid; border-color: #f5f5f5;}
 
 .ms-w-userpicture {width: 50px;}
+
+.ms-roundend-pfp {border-radius: 50%; width: 45px; height: 45px;}
