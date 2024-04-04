@@ -1,31 +1,33 @@
-.ms-main-box {
-    height: 100vh;
-    width: 100vw;
-}
+.ms-main-box {height: 100vh; width: 100vw;}
 
-.header-fullscreen {
-    height: 15vh;
-    background-color: #009688;
-}
+.header-fullscreen {height: 15vh; background-color: #009688;}
 
-.main-fullscreen {
-    height: 85vh;
-    background-color: #dbdbd4;
-}
+.main-fullscreen {height: 85vh; background-color: #dbdbd4;}
 
-.ms-box {
-    margin: 20px 130px;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-}
+.ms-box {margin: 20px 130px; position: absolute; top: 0; left: 0; right: 0; bottom: 0;}
 
-.ms-fullround {
-    border-radius: 50%;
-}
+.ms-fullround {border-radius: 50%;}
 
-.ms-fs-1 {
-    font-size: 15px;
-}
+.ms-fs-1 {font-size: 15px;}
+
+.ms-circle i {display: flex; align-items: center; font-size: 17px;}
+
+.ms-circle {width: 45px; height: 45px; background-color: white; border-radius: 50%;}
+
+.ms-icon {display: flex; justify-content: end;}
+
+.ms-between {justify-content: space-between;}
+
+.ms-bg-user {background-color: #eaeaea;}
+
+.ms-color-icon {color: #b1b1b1;}
+
+.ms-bg-notify {background-color: #8edafc;}
+
+.ms-color-notify {color:#8edafc;}
+
+.ms-fs-notify {font-size: 14px;}
+
+.ms-fs-notify-2 {font-size: 12px;}
+
+.ms-search {font-size: 16px; color: #b5b8b9;}
