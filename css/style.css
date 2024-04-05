@@ -48,3 +48,9 @@
 @media screen and (max-width: 1200px) {
     .ms-circle i { width: 100px; justify-content: center;}
 }
+
+@media screen and (max-width: 1140px) {
+    .ms-circle i { width: 100px; justify-content: center;}
+    .ms-circle {margin-right: 10px;}
+    .ms-fs-notify { font-size: 13.5px; padding: 0px; margin: 0px; justify-content: start;}
+}
