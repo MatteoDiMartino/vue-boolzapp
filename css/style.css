@@ -4,7 +4,7 @@
 
 .main-fullscreen {height: 85vh; background-color: #dbdbd4;}
 
-.ms-box {margin: 20px 130px; position: fixed; top: 0; left: 0; right: 0; bottom: 0;}
+.ms-box {margin: 20px 130px; position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow-x: hidden;}
 
 .ms-fullround {border-radius: 50%;}
 
@@ -12,7 +12,7 @@
 
 .ms-circle i {display: flex; align-items: center; font-size: 17px;}
 
-.ms-circle {width: 45px; height: 45px; background-color: white; border-radius: 50%;}
+.ms-circle {width: 35px; height: 35px; background-color: white; border-radius: 50%;}
 
 .ms-icon {display: flex; justify-content: end;}
 
@@ -36,6 +36,10 @@
 
 .ms-w-userpicture {width: 50px;}
 
-.ms-roundend-pfp {border-radius: 50%; width: 55px; height: 55px;}
+.ms-roundend-pfp {border-radius: 50%; width: 45px; height: 45px;}
 
 .ms-fs-3 {font-size: 13px;}
+
+.ms-scrolling-chat {overflow-x: hidden;}
+
+.ms-block-position {position: sticky; overflow-y: scroll; overflow-x: hidden;}
