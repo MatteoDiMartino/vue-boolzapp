@@ -43,3 +43,8 @@
 .ms-scrolling-chat {overflow-x: hidden;}
 
 .ms-block-position {position: sticky; overflow-y: scroll; overflow-x: hidden;}
+
+
+@media screen and (max-width: 1200px) {
+    .ms-circle i { width: 100px; justify-content: center;}
+}
