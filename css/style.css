@@ -4,7 +4,7 @@
 
 .main-fullscreen {height: 85vh; background-color: #dbdbd4;}
 
-.ms-box {margin: 20px 130px; position: absolute; top: 0; left: 0; right: 0; bottom: 0;}
+.ms-box {margin: 20px 130px; position: fixed; top: 0; left: 0; right: 0; bottom: 0;}
 
 .ms-fullround {border-radius: 50%;}
 
