@@ -54,6 +54,8 @@
 
 .ms-fs-hour {font-size: 13px;}
 
+.ms-fs-hourmsg {font-size: 10px;}
+
 @media screen and (max-width: 1200px) {
     .ms-circle i { width: 100px; justify-content: center;}
 }
