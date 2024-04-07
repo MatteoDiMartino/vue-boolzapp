@@ -46,6 +46,9 @@
 
 .ms-bg-chat {
     background-image: url(/img/mine.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 
