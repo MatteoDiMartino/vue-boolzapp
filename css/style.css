@@ -44,6 +44,10 @@
 
 .ms-block-position {position: sticky; overflow-y: scroll; overflow-x: hidden;}
 
+.ms-bg-chat {
+    background-image: url(/img/mine.jpg);
+}
+
 
 @media screen and (max-width: 1200px) {
     .ms-circle i { width: 100px; justify-content: center;}
