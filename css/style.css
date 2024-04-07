@@ -50,7 +50,7 @@
 
 .ms-effect-point {background-color: white;}
 
-.ms-effect-point:hover {background-color: #8edafc;}
+.ms-effect-point:hover {background-color: #8edafc; cursor: pointer;}
 
 .ms-fs-hour {font-size: 13px;}
 
