@@ -48,6 +48,11 @@
 
 .bg-low-bar {background-color: #f3eeea;}
 
+.ms-effect-point {background-color: white;}
+
+.ms-effect-point:hover {background-color: #8edafc;}
+
+.ms-fs-hour {font-size: 13px;}
 
 @media screen and (max-width: 1200px) {
     .ms-circle i { width: 100px; justify-content: center;}
