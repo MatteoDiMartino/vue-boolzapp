@@ -4,7 +4,7 @@
 
 .main-fullscreen {height: 85vh; background-color: #dbdbd4;}
 
-.ms-box {margin: 20px 130px; position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow-x: hidden;}
+.ms-box {margin: 20px 130px; position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow-x: hidden; overflow-y: hidden;}
 
 .ms-fullround {border-radius: 50%;}
 
@@ -40,9 +40,9 @@
 
 .ms-fs-3 {font-size: 13px;}
 
-.ms-scrolling-chat {overflow-x: hidden;}
+.ms-scrolling-chat {overflow-x: hidden; overflow-y: scroll;}
 
-.ms-block-position {position: sticky; overflow-y: scroll; overflow-x: hidden;}
+.ms-block-position {position: sticky;}
 
 .ms-bg-chat {background-image: url(/img/mine.jpg); display: flex; flex-direction: column; justify-content: space-between;}
 
