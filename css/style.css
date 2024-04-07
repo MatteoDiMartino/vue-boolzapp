@@ -44,12 +44,9 @@
 
 .ms-block-position {position: sticky; overflow-y: scroll; overflow-x: hidden;}
 
-.ms-bg-chat {
-    background-image: url(/img/mine.jpg);
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
+.ms-bg-chat {background-image: url(/img/mine.jpg); display: flex; flex-direction: column; justify-content: space-between;}
+
+.bg-low-bar {background-color: #f3eeea;}
 
 
 @media screen and (max-width: 1200px) {
