@@ -58,6 +58,8 @@
 
 .ms-bg-usermsg {background-color: #d5f9ba;}
 
+.ms-py {padding: 10.5px 0px;}
+
 @media screen and (max-width: 1200px) {
     .ms-circle i { width: 100px; justify-content: center;}
 }
